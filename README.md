@@ -1,99 +1,100 @@
-🚀 Sahil Raj — Full Stack & AI Engineer
+# 🚀 Sahil Raj — Full Stack & AI Engineer
 
-Hi there 👋 I build scalable full-stack platforms, AI-powered systems, and developer tools that solve real-world problems. I enjoy working across the stack — from intelligent backend agents to polished, high-performance frontends.
+Hi there 👋  
+I build **scalable full-stack platforms**, **AI-powered systems**, and **developer tools** that solve real-world problems. I enjoy working across the stack — from intelligent backend agents to polished, high-performance frontends.
 
-🔭 Currently building: AI-driven job intelligence systems
-⚙️ Focused on: Scalable architectures, automation, and clean system design
-🌱 Exploring: AI agents, distributed systems, and system design
+🔭 **Currently building:** AI-driven job intelligence systems  
+⚙️ **Focused on:** Scalable architectures, automation, and clean system design  
+🌱 **Exploring:** AI agents, distributed systems, and system design  
 
-🌐 Portfolio: https://sahil-portfolio-nuke.vercel.app/
+🌐 **Portfolio:** https://sahil-portfolio-nuke.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/sahilraj3324/
 
-💼 LinkedIn: https://www.linkedin.com/in/sahilraj3324/
+---
 
-🧠 Featured Projects
-🤖 AI Job Discovery Platform
+## 🧠 Featured Projects
 
+### 🤖 AI Job Discovery Platform
 AI-powered system that discovers jobs directly from company career pages and Google Jobs, structures listings, and provides direct apply links.
 
-Highlights
+**Highlights**
+- Agent-based backend for large-scale job aggregation  
+- Automated ATS & career page detection  
+- Job deduplication and normalization pipeline  
 
-Agent-based backend for large-scale job aggregation
+**Tech:** NestJS, TypeScript, MongoDB, OpenAI API, Next.js, Tailwind CSS  
+🔗 **Backend:** https://github.com/sahilraj3324/job-agent-backend  
+🌍 **Live Demo:** https://job-agent-lovat.vercel.app/
 
-Automated ATS & career page detection
+---
 
-Job deduplication and normalization pipeline
+### 🧬 Nuke — Custom Version Control System
+A fully functional **version control system** built from scratch with a CLI and cloud-backed storage.
 
-Tech: NestJS, TypeScript, MongoDB, OpenAI API, Next.js, Tailwind CSS
-🔗 Backend: https://github.com/sahilraj3324/job-agent-backend
+**Highlights**
+- CLI commands: init, add, commit, push, pull, revert  
+- Secure file storage using AWS S3  
+- Full-stack dashboard for repository management  
 
-🌍 Live Demo: https://job-agent-lovat.vercel.app/
+**Tech:** Node.js, Express, MongoDB, AWS S3, React, Shadcn UI, Tailwind CSS  
 
-🧬 Nuke — Custom Version Control System
+---
 
-A fully functional version control system built from scratch with a CLI and cloud-backed storage.
-
-Highlights
-
-CLI commands: init, add, commit, push, pull, revert
-
-Secure file storage using AWS S3
-
-Full-stack dashboard for repository management
-
-Tech: Node.js, Express, MongoDB, AWS S3, React, Shadcn UI, Tailwind CSS
-
-🧩 Atom — Full Stack Issue Tracker
-
+### 🧩 Atom — Full Stack Issue Tracker
 Production-ready issue tracking system supporting large user bases.
 
-Highlights
+**Highlights**
+- Scalable issue management with relational DB  
+- Optimized frontend rendering with Next.js  
+- Clean UI and structured workflow  
 
-Scalable issue management with relational DB
+**Tech:** React, Next.js, Tailwind CSS, Prisma, SQL  
 
-Optimized frontend rendering with Next.js
+---
 
-Clean UI and structured workflow
+## 🛠 Tech Stack
 
-Tech: React, Next.js, Tailwind CSS, Prisma, SQL
+### 💻 Languages
+C++ • C# • Java • JavaScript • TypeScript • Python • Dart  
 
-🛠 Tech Stack
-💻 Languages
+### ⚙️ Frameworks & Platforms
+Next.js • React • Node.js • Express • NestJS • .NET • Flutter • Django  
 
-C++ • C# • Java • JavaScript • TypeScript • Python • Dart
+### 🗄 Databases
+MongoDB • PostgreSQL • MySQL • Redis • DynamoDB • Amazon RDS  
 
-⚙️ Frameworks & Platforms
+### 🧰 Tools & DevOps
+Docker • Git • GitHub • CI/CD • Nginx • Ubuntu • AWS EC2  
 
-Next.js • React • Node.js • Express • NestJS • .NET • Flutter • Django
+### 🎨 UI & Libraries
+Tailwind CSS • Shadcn UI • Material UI • NextUI • React Router • Axios  
 
-🗄 Databases
+---
 
-MongoDB • PostgreSQL • MySQL • Redis • DynamoDB • Amazon RDS
+## 📊 GitHub Stats
 
-🧰 Tools & DevOps
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilraj3324&show_icons=true&theme=radical)
 
-Docker • Git • GitHub • CI/CD • Nginx • Ubuntu • AWS EC2
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraj3324&layout=compact&theme=radical)
 
-🎨 UI & Libraries
+---
 
-Tailwind CSS • Shadcn UI • Material UI • NextUI • React Router • Axios
+## 🏗 What I Love Building
 
-📊 GitHub Stats
+✔ AI-powered automation systems  
+✔ Developer tools & system-level projects  
+✔ Scalable SaaS platforms  
+✔ Clean backend architectures  
+✔ High-performance frontends  
 
+---
 
+## 🤝 Let’s Connect
 
+If you're interested in collaborating on **AI systems, developer tools, or scalable web platforms**, feel free to reach out.
 
-🏗 What I Love Building
+📩 Open to opportunities and technical collaborations  
 
-✔ AI-powered automation systems
-✔ Developer tools & system-level projects
-✔ Scalable SaaS platforms
-✔ Clean backend architectures
-✔ High-performance frontends
+---
 
-🤝 Let’s Connect
-
-If you're interested in collaborating on AI systems, developer tools, or scalable web platforms, feel free to reach out.
-
-📩 Open to opportunities and technical collaborations
-
-⭐ “Build things that scale. Build things that matter.”
+### ⭐ *Build things that scale. Build things that matter.*
