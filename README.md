@@ -40,18 +40,6 @@ A fully functional **version control system** built from scratch with a CLI and 
 
 ---
 
-### 🧩 Atom — Full Stack Issue Tracker
-Production-ready issue tracking system supporting large user bases.
-
-**Highlights**
-- Scalable issue management with relational DB  
-- Optimized frontend rendering with Next.js  
-- Clean UI and structured workflow  
-
-**Tech:** React, Next.js, Tailwind CSS, Prisma, SQL  
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -68,32 +56,6 @@ Docker • Git • GitHub • CI/CD • Nginx • Ubuntu • AWS EC2
 
 ### 🎨 UI & Libraries
 Tailwind CSS • Shadcn UI • Material UI • NextUI • React Router • Axios  
-
----
-
-## 📊 GitHub Stats
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilraj3324&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraj3324&layout=compact&theme=radical)
-
----
-
-## 🏗 What I Love Building
-
-✔ AI-powered automation systems  
-✔ Developer tools & system-level projects  
-✔ Scalable SaaS platforms  
-✔ Clean backend architectures  
-✔ High-performance frontends  
-
----
-
-## 🤝 Let’s Connect
-
-If you're interested in collaborating on **AI systems, developer tools, or scalable web platforms**, feel free to reach out.
-
-📩 Open to opportunities and technical collaborations  
 
 ---
 
