@@ -40,23 +40,4 @@ A fully functional **version control system** built from scratch with a CLI and 
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-C++ • C# • Java • JavaScript • TypeScript • Python • Dart  
-
-### ⚙️ Frameworks & Platforms
-Next.js • React • Node.js • Express • NestJS • .NET • Flutter • Django  
-
-### 🗄 Databases
-MongoDB • PostgreSQL • MySQL • Redis • DynamoDB • Amazon RDS  
-
-### 🧰 Tools & DevOps
-Docker • Git • GitHub • CI/CD • Nginx • Ubuntu • AWS EC2  
-
-### 🎨 UI & Libraries
-Tailwind CSS • Shadcn UI • Material UI • NextUI • React Router • Axios  
-
----
-
 ### ⭐ *Build things that scale. Build things that matter.*
