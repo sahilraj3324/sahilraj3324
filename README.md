@@ -38,6 +38,6 @@ A fully functional **version control system** built from scratch with a CLI and 
 
 **Tech:** Node.js, Express, MongoDB, AWS S3, React, Shadcn UI, Tailwind CSS  
 
----
+----
 
 ### ⭐ *Build things that scale. Build things that matter.*
