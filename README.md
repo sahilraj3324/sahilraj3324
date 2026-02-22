@@ -9,35 +9,3 @@ I build **scalable full-stack platforms**, **AI-powered systems**, and **develop
 
 🌐 **Portfolio:** https://sahil-portfolio-nuke.vercel.app/  
 💼 **LinkedIn:** https://www.linkedin.com/in/sahilraj3324/
-
--------
-
-## 🧠 Featured Projects
-
-### 🤖 AI Job Discovery Platform
-AI-powered system that discovers jobs directly from company career pages and Google Jobs, structures listings, and provides direct apply links.
-
-**Highlights**
-- Agent-based backend for large-scale job aggregation  
-- Automated ATS & career page detection  
-- Job deduplication and normalization pipeline  
-
-**Tech:** NestJS, TypeScript, MongoDB, OpenAI API, Next.js, Tailwind CSS  
-🔗 **Backend:** https://github.com/sahilraj3324/job-agent-backend  
-🌍 **Live Demo:** https://job-agent-lovat.vercel.app/
-
----
-
-### 🧬 Nuke — Custom Version Control System
-A fully functional **version control system** built from scratch with a CLI and cloud-backed storage.
-
-**Highlights**
-- CLI commands: init, add, commit, push, pull, revert  
-- Secure file storage using AWS S3  
-- Full-stack dashboard for repository management  
-
-**Tech:** Node.js, Express, MongoDB, AWS S3, React, Shadcn UI, Tailwind CSS  
-
-----
-
-### ⭐ *Build things that scale. Build things that matter.*
