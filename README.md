@@ -1,4 +1,4 @@
-# 🚀 Sahil Raj — Full Stack & AI Engineer
+# 🚀 Sahil Raj 
 
 Hi there 👋  
 I build **scalable full-stack platforms**, **AI-powered systems**, and **developer tools** that solve real-world problems. I enjoy working across the stack — from intelligent backend agents to polished, high-performance frontends.
