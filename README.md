@@ -5,7 +5,7 @@ I build **scalable full-stack platforms**, **AI-powered systems**, and **develop
 
 🔭 **Currently building:** AI-driven job intelligence systems  
 ⚙️ **Focused on:** Scalable architectures, automation, and clean system design  
-🌱 **Exploring:** AI agents, distributed systems, and system design  
+🌱 **Exploring:** AI agents, distributed systems, and system design. 
 
 🌐 **Portfolio:** https://sahil-portfolio-nuke.vercel.app/  
 💼 **LinkedIn:** https://www.linkedin.com/in/sahilraj3324/
